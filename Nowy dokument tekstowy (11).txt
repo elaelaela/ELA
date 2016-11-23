@@ -18,6 +18,21 @@ int main(void)
                              }
                       }
                       }
+printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n");
+ printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n"); 
+ printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n");
+ printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n"); 
+ printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n"); 
+printf("\nPosortowane:\n"); 
  
     printf("\nPosortowane:\n");  
     for(i=0; i<5; i++) printf("%d\n", a[i]);
